@@ -30,4 +30,4 @@ It does not provide medical advice, diagnosis, or treatment.
 ## Legal
 
 - [Privacy Policy](YOUR-PRIVACY-LINK)
-- [Terms of Use](YOUR-TERMS-LINK)
+- [Terms of Use](https://github.com/viratioapp/Viratio/blob/main/Terms%20Of%20Use.md)
