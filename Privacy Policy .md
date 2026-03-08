@@ -1,6 +1,8 @@
 # Viratio
-Privacy Policy — Viratio \n
-Last updated: 4 mars 2026 \n
+# Privacy Policy — Viratio
+
+**Last updated:** 4 March 2026
+
 This Privacy Policy explains how Correlation Development handles information when you use Viratio.
 
 1) Summary 
