@@ -1,4 +1,6 @@
-Terms of Use — Viratio Last updated: 4 mars 2026
+# Terms of Use — Viratio
+
+**Last updated:** 4 March 2026
 
 These Terms of Use govern your use of Viratio. By downloading, accessing, or using the App (Viratio), you agree to these Terms. If you do not agree, do not use the App. 
 
