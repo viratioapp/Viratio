@@ -1,4 +1,3 @@
-# Viratio
 # Privacy Policy — Viratio
 
 **Last updated:** 4 March 2026
