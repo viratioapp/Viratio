@@ -1,6 +1,6 @@
 # Privacy Policy — Viratio
 
-**Last updated:** 4 March 2026
+**Last updated:** 13 March 2026
 
 This Privacy Policy explains how Correlation Development handles information when you use Viratio.
 
@@ -76,7 +76,7 @@ We take reasonable measures to protect data within the App environment. However,
 
 ## 10) Children’s privacy
 
-The App is not intended for users under 18. We do not collect personal data to our servers.
+The App is not specifically directed to children. We do not collect personal data on our servers as part of normal app operation workout data is stored locally on the user’s device.
 
 ---
 
