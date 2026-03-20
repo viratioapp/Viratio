@@ -1,4 +1,4 @@
-# Terms of Use — Viratio
+# Disclaimer— Viratio
 
 **Last updated:** 4 March 2026
 
