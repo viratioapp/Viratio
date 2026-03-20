@@ -26,7 +26,7 @@ The App does not provide medical advice and is not intended to diagnose, treat, 
 
 ---
 
-## 6) Acceptable use
+## 4) Acceptable use
 
 You agree not to:
 
@@ -36,13 +36,13 @@ You agree not to:
 
 ---
 
-## 7) Your content and data
+## 5) Your content and data
 
 You are responsible for the workout data you enter into the App. You represent that you have the right to use any content you add. The App stores workout data on your device (see Privacy Policy).
 
 ---
 
-## 8) Availability and changes
+## 6) Availability and changes
 
 We may update or change the App over time. We do not guarantee that any specific feature will always be available.
 
@@ -50,7 +50,7 @@ We may update or change the App over time. We do not guarantee that any specific
 
 ---
 
-## 12) Changes to these guidlines
+## 7) Changes to these guidlines
 
 We may update these guidlines from time to time. We will update the “Last updated” date above. Continued use of the App after changes means you accept the updated guidlines.
 
