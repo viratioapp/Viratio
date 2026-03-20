@@ -29,6 +29,7 @@ It does not provide medical advice, diagnosis, or treatment.
 
 ## Legal
 
+- [Info](https://github.com/viratioapp/Viratio/blob/main/Info.md)
 - [Privacy Policy](https://github.com/viratioapp/Viratio/blob/main/Privacy%20Policy.md)
 - [Terms of Use](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/)
-- [Info](https://github.com/viratioapp/Viratio/blob/main/Info.md)
+
