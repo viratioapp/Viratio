@@ -30,4 +30,4 @@ It does not provide medical advice, diagnosis, or treatment.
 ## Legal
 
 - [Privacy Policy](https://github.com/viratioapp/Viratio/blob/main/Privacy%20Policy.md)
-- [Terms of Use](https://github.com/viratioapp/Viratio/blob/main/Terms%20Of%20Use.md)
+- [Terms of Use]([https://github.com/viratioapp/Viratio/blob/main/Terms%20Of%20Use.md](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/)
