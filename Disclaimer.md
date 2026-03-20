@@ -6,7 +6,7 @@
 
 ## 1) Who we are
 
-Correlation Development is the developer of the App. Viratio and all related content are owned by Correlation Development or its licensors. .
+Correlation Development is the developer of the App. Viratio and all related content are owned by Correlation Development or its licensors.
 
 **Contact:** viratio.development@gmail.com
 
