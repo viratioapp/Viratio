@@ -2,10 +2,6 @@
 
 **Last updated:** 4 March 2026
 
-These Terms of Use govern your use of Viratio. By downloading, accessing, or using the App (Viratio), you agree to these Terms. If you do not agree, do not use the App.
-
-These Terms are between you and Correlation Development, not Apple. Apple is not responsible for the App or its content.
-
 ---
 
 ## 1) Who we are
